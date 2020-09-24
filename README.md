@@ -13,7 +13,7 @@ The data has 8523 rows of 12 variables.
 
 ## Setup
 
-* Download the Jupyter Notebook above on your computer.
+* Download the Jupyter Notebook above, test and train data on the same location on your computer.
 
 ### Install the requirements
  
